@@ -1,0 +1,12 @@
+body{
+    background-color: lightblue;
+    background-image: url(cover1.jpg);
+    background-repeat: no-repeat;
+    background-position: bottom right;
+    background-size: 50% 100%;
+    padding: 20px;
+}
+h1{
+    font-family:'Times New Roman', Times, serif;
+    color: darkblue;
+}
