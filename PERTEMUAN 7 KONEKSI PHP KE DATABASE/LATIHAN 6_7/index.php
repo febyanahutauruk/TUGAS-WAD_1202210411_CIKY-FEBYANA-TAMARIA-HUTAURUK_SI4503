@@ -23,7 +23,7 @@
     <body>
         <h1>Destinasi Wisata Indonesia</h1>
 
-        <a href="Tambah.php">Tambah Data Destinasi Wisata Indonesi</a>
+        <a href="Tambah.php">Tambah Data Destinasi Wisata Indonesia</a>
         <br><br>
 
         
