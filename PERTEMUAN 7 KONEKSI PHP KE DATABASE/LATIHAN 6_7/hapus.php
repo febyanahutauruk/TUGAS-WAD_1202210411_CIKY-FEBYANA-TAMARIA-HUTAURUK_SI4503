@@ -2,7 +2,7 @@
 
 require 'function.php';
 
-$IdDestinasiWisata = $_GET["Id"];
+$IdDestinasiWisata = $_GET["IdDestinasiWisata"];
 
 if( hapus($IdDestinasiWisata) > 0){
     echo "
